@@ -1,5 +1,5 @@
 # BookChallenge
-Python/Django web app that uses CRUD, web scraping, JavaScript, and APIs to create a collection of tools for book lovers. App was part of a bigger project that had a directory of apps, so this repository does not include the full code to run the web application. However, you can find all the code I wrote in my portion in this README file.
+Python/Django web app that uses CRUD, web scraping, JavaScript, and APIs to create a collection of tools for book lovers. App was part of a bigger project that had a directory of apps, so this repository does not include the full code to run the web application. However, you can find some code here within the documentation.
 ## Features
 * Homepage that includes quotes from famous authors and YouTube videos about reading and books
 * Ability for user to add book to their library database
